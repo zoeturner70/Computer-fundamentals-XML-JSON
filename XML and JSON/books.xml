@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+    <bookstore>
+        <book>
+            <title>The Hunger Games</title>
+            <author>Suzanne Collins</author>
+            <publishDate>2008</publishDate>
+            <price>10.99</price>
+        </book>
+        <book>
+            <title>Catching Fire</title>
+            <author>Suzanne Collins</author>
+            <publishDate>2009</publishDate>
+            <price>10.99</price>
+        </book>
+        <book>
+            <title>Mockingjay</title>
+            <author>Suzanne Collins</author>
+            <publishDate>2010</publishDate>
+            <price>10.99</price>
+        </book>
+        <!-- Add two more books similarly -->
+    </bookstore>
